@@ -278,3 +278,28 @@
 - many transform properites can be added in one transform 
 
 @ Tutorial 43
+
+
+@ Tutorial 44
+- Exercise 7: Ultra Edit clone
+
+@ Tutorial 45
+- transition property ( containing ; transition-property transition-duration transition-timing-function transition-delay)
+- transiting sidebar 
+- different options for transition-timing-function 
+- transition : property or properties seperated by comma(or all) transition-duration transition-timing-function transition-delay
+- we can transform all properties at once using keyword all in transition 
+- cubic-bazier() function creation using webdevtools
+
+@ Tutorial 46
+- css animations
+- keyframes , from , to 
+- animation duration 
+- animation iteration count 
+- animation: name duration timing-function delay iteration-count direction fill-mode;
+- animation fill-mode 
+- none,forward,backword,both keyword in fill-mode 
+- giving different commands according to %age complete of animation 
+
+@ Tutorial 48
+- Exercise 8 : Bounce animation 

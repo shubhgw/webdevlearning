@@ -1,0 +1,44 @@
+.container {
+    width: 50vw;
+    height: 50vh;
+    background-color: aqua;
+}
+
+.box {
+    width: 5vw;
+    height: 5vw;
+    background-color: blueviolet;
+    animation: shubhs-animation 3s ease-in-out 0.2s 3 ,
+    shubhs-animation2 3s ease-in-out 0.2s 3;
+    /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+
+}
+
+@keyframes shubhs-animation {
+    from {}
+
+    to {
+        transform: translateX(579px);
+        background-color: yellow;
+    }
+}
+
+@keyframes shubhs-animation2 {
+    0% {
+        transform: rotate(100deg);
+    }
+
+    20%{transform: rotate(200deg);
+    }
+
+    50%{transform: rotate(220deg);
+    }
+
+    80% {
+        transform: rotate(300deg);
+    }
+
+    100% {
+        transform: rotate(310deg);
+    }
+}

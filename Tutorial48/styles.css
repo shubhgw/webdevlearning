@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "consolas";
+    font-size: 3vw;
+}
+
+body {
+    background-color: rgb(150, 255, 255);
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+.box {
+    width: 50px;
+    font-size: 15px;
+    height: 50px;
+    background-color: rgb(198, 137, 255);
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 100px;
+    border: 2px solid black;
+    margin-top: 300px;
+    margin-bottom: 60px;
+    animation: bounce 3s 0s infinite linear alternate,
+        slide 20s 0s infinite linear ;
+}
+
+footer {
+    font-size: 1.5vw;
+    position: fixed;
+    bottom: 20px;
+}
+
+.ground {
+    position: fixed;
+    bottom: 100px;
+    left: 10px;
+}
+
+@keyframes slide {
+    from {
+        margin-left: 0px;
+    }
+
+    to {
+        margin-left: 1000px;
+    }
+}
+
+@keyframes bounce {
+    from {
+        margin-top: 10px;
+    }
+
+    to {
+        margin-top: 360px;
+    }
+}
