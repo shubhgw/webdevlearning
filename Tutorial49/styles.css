@@ -1,0 +1,10 @@
+
+.container{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(117, 255, 255);
+    border: 2px solid black;
+    overflow: auto;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpQQJkX4QxVH-28D1eFJ_RP7evdCNcec4wTA9wDIUwlw&s=10") ;
+    background-repeat: no-repeat ;
+}

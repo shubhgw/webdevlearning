@@ -303,3 +303,26 @@
 
 @ Tutorial 48
 - Exercise 8 : Bounce animation 
+
+@ Tutorial 49
+- Image fitting inside our box
+- object-fit : cover (fill by default ) ; when width & height is given to img then it will crop image in that lenghts & maintain the aspect ratio 
+- object-fit : contain  ( to get the possible image & keep the remaining space )
+- object-position: top/bottom right/left
+- Giving background to container div 
+- its repeat if small in background ( it can be controlled )
+
+@ Tutorial 50
+- filters 
+- blur, contrast , brightness, greyscale, sepia, hue-rotate, drop-shadow,invert,opacity .......
+- many filters can be applied using comma
+ 
+@ Tutorial 52
+- figma introduction
+
+@ Tutorial 53
+- Netflix clone
+
+@ Tutorial 54 
+- Intro to JS 
+- downlaoding Node.js 
