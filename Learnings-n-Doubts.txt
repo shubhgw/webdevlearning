@@ -326,3 +326,9 @@
 @ Tutorial 54 
 - Intro to JS 
 - downlaoding Node.js 
+- showing alert in starting of page 
+- Write complete js in same file or completely in another file via linking it using script tag 
+- console.log("")
+- console.error("")
+- variable using var keyword 
+- taking input via prompting    
