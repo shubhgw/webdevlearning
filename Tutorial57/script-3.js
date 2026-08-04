@@ -15,3 +15,5 @@ for (const key in obj) {
 for ( const c of "Harry" ){
     console.log(c);
 }
+
+// THERE ARE SOME MORE FOR LOOPS WHICH WILL BE DISCUSSED LATER ON !
