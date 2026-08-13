@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tutorial 68</title>
+    <style>
+      a {
+        text-decoration: none;
+        margin: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="navbar">
+      <a href="">Home</a>
+      <a href="">Products</a>
+      <a href="">Warranty</a>
+      <a href="">About</a>
+    </div>
+
+    <script>
+        obj = (document.body.getElementsByTagName("a"));
+        for (const element of obj) {
+            console.log(element)
+            element.style.backgroundColor = "cyan"
+        }
+    </script>
+  </body>
+</html>

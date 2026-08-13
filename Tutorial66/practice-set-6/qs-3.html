@@ -1,0 +1,33 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      function ageChecker() {
+        age = prompt("Enter your age below :");
+        if (age < 0) {
+          alert("You age not possible");
+          ageChecker();
+        } else if (age < 18) {
+          alert("You can't drive");
+        } else {
+          alert("You can drive");
+        }
+
+        again = confirm("Do u want to see the prompt again?");
+
+        if (again == true) {
+          ageChecker();
+        } else {
+          console.log("Done");
+        }
+      }
+      ageChecker();
+    </script>
+  </body>
+</html>
