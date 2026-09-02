@@ -1,11 +1,11 @@
 
 @ Tutorial 2
-- basic syntax of html & linking with stylesheet & script & live server
+☠️- basic syntax of html & linking with stylesheet & script & live server
 
 @ Tutorial 3
 - types of tags : self closing tag & paired tag 
 - about meta description
-- opening current html file in mobile via IP address
+☠️☠️- opening current html file in mobile via IP address
 
 @ Tutorial 4
 - heading writing via h tags
@@ -19,12 +19,12 @@
 - image error handling using alt="train img not found"
 - height & width adjust according to aspect ratio
 -❤️ we dont need to write 200px in inline style but need in stylesheet
-- htmls table tag ( th , td, tr)
+☠️- htmls table tag ( th , td, tr)
 - caption tag inside table tag
 - br tag adds a line brake in between
 - header tells about the page intro
 - footer tells about the page outro
-- html lists ( ordered, unordered , definition )
+☠️- html lists ( ordered, unordered , definition )
 
 @ Tutorial 6 ❤️
 - CLS ; cumulative layout shift 
@@ -33,11 +33,12 @@
 - FID ; first input delay
 
 @ Tutorial 7
-- Forms in html 
+☠️- Forms in html 
 -❤️ get request & post request
 - id of element is used to give it a unique identification ( its different for every element)
--❤️ label tag with input tag 
+-❤️ label tag with input ( text, checkbox , radio) tag 
 - name , id , value in html ( not understood well )
+- textarea , select options ( drop down menu )
 
 @ Tutorial 8
 - Inline elements 
@@ -52,16 +53,16 @@
 - One element can belongs to many classes 
 - Many element can have same class 
 - we use . to target specified named class 
-- we use # to target elements via their ID 
+☠️- we use # to target elements via their ID 
 - ID can be focused in search link using #id
 
 @ Tutorial 10
 - showing media inside the page 
-- audio & video
-- their attributes
+☠️- audio & video
+☠️- their attributes
 -❤️ preload ( none by default, metadata,auto ) - never use metadata ; if u want to preload then do via auto 
-- showing svg 
-- iframes to embed a website into your website
+☠️- showing svg 
+☠️- iframes to embed a website into your website
 
 @ Tutorial 11
 - Importance of tags in SEO
@@ -72,7 +73,7 @@
 
 @ Tutorial 13
 - HTML entities
-- pre tag
+☠️- pre tag
 - &copy; for copyright symbol
 - &nbsp; for extra consideralbe spaces
 - Quotation tag ( for SEO )
@@ -85,10 +86,10 @@
 - basics of CSS
 
 @ Tutorail 17
-- classes & id use classes
+- classes & id use cases
 -❤️ id is more specific than class
-- child selectors
-- descendant selector
+☠️- child selectors
+☠️- descendant selector
 -❤️ universal selector
 - pseudo selector
 - first-child selector
@@ -138,7 +139,7 @@
 - margin: auto ; works with only block elements not with inline block elements
 - span mei width nhi lga sakte
 - margin : 1 2 ; 1 stand for vertical margins(top n bottom) while 2 stand for horizontal margin(right n left)
-- width:100vw ; means 100% of viewport width availabel
+- width:100vw ; means 100% of viewport width available
 - width:2em ; means twice of inherited width
 - html is a root element 
 - width:3rem ; thrice of inherited via root element
@@ -267,7 +268,7 @@
 
 @ Tutorial 40
 - Navbar exercise
-
+🧧🧧🧧🧧🧧🧧🧧🧧🧧🧧🧧🧧
 @ Tutorial 42
 - transform property 
 - rotating & its units 
