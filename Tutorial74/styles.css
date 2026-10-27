@@ -1,0 +1,19 @@
+
+.child,
+.childcontainer,
+.container{
+    margin: 5px;
+    padding:5px;
+    border:2px solid black;
+}
+
+.child{
+    background-color: rgb(20, 145, 255);
+}
+.childcontainer{
+    background-color: rgb(16, 185, 50);
+    height: 20px;
+}
+.container{
+    background-color: #fff;
+}
